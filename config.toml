@@ -19,10 +19,10 @@ theme = "hugo-apps-theme"
     weight = 1
     url = "/about"
 
-[[menu.main]]
-    name = "README"
-    weight = 2
-    url = "/README"
+#[[menu.main]]
+#    name = "README"
+#    weight = 2
+#    url = "/README"
 
 [[menu.main]]
     name = "*Demostraciones*"
