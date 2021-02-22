@@ -14,11 +14,6 @@ theme = "hugo-apps-theme"
 #  weight = 2
 #  url = "https://gonnux.com"
 
-[[menu.main]]
-    name = "Acerca de mí"
-    weight = 1
-    url = "/about"
-
 #[[menu.main]]
 #    name = "README"
 #    weight = 2
