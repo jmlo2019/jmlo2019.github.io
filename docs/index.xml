@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jmlealoliva</title>
+    <link>http://jmlealoliva.website/</link>
+    <description>Recent content on jmlealoliva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:01:36 -0500</lastBuildDate><atom:link href="http://jmlealoliva.website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>README</title>
+      <link>http://jmlealoliva.website/readme/</link>
+      <pubDate>Mon, 22 Feb 2021 16:18:44 -0600</pubDate>
+      
+      <guid>http://jmlealoliva.website/readme/</guid>
+      <description>Hugo Apps Theme   
+Hugo apps theme makes it easy to post web apps
+Installation From the root of your website
+mkdir -p themes cd themes git clone https://github.com/gonnux/hugo-apps-theme From config.toml of your site
+theme = &amp;#34;hugo-apps-theme&amp;#34; Creating a page hugo new about.md #hugo new about.html hugo new apps/myapp.md #hugo new apps/myapp.html mkdir apps/myapp touch apps/myapp/index.html touch apps/myapp/app.js touch apps/myapp/app.css Configuration Front Matter  title(string): title for your page showTitle(boolean): whether you want to show the title weight(integer): weight of your page, used for sorting full(boolean): whether your page is full page or not enableDisqus(boolean): whether your page uses disqus or not, even though this value is true you cannot enable disqus for full page img(string): logo image for your page  What is full page?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://jmlealoliva.website/about/</link>
+      <pubDate>Mon, 22 Feb 2021 16:01:59 -0600</pubDate>
+      
+      <guid>http://jmlealoliva.website/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>app1</title>
+      <link>http://jmlealoliva.website/apps/app1/</link>
+      <pubDate>Wed, 28 Nov 2018 15:01:36 -0500</pubDate>
+      
+      <guid>http://jmlealoliva.website/apps/app1/</guid>
+      <description>Demo 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>

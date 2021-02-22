@@ -1,3 +1,45 @@
-baseURL = "http://example.org/"
+baseURL = "http://jmlealoliva.website/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "jmlealoliva"
+theme = "hugo-apps-theme"
+
+[params]
+  googleAutoAds = ""
+  avatar = "images/jmlo_clean.png"
+  author = "Juan Manuel"
+  info = "Desarrollador web especializado en PHP (Back - End)"
+
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 2
+#  url = "https://gonnux.com"
+
+[[menu.main]]
+    name = "Acerca de mí"
+    weight = 1
+    url = "/about"
+
+[[menu.main]]
+    name = "README"
+    weight = 2
+    url = "/README"
+
+[[menu.main]]
+    name = "*Demostraciones*"
+    weight = 3
+    url = "/apps"
+
+[[params.social]]
+  name = "Github"
+  weight = 1
+  url = "https://github.com/jmlo2019"
+
+#[[params.social]]
+#  name = "Gitlab"
+#  weight = 2
+#  url = "https://gitlab.com/gonnux"
+
+#[[params.social]]
+#  name = "Website"
+#  weight = 3
+#  url = "https://gonnux.com"
